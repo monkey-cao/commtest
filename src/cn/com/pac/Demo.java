@@ -46,6 +46,7 @@ public class Demo {
             stus.remove(i);
         }
         System.out.println(stus.toArray());
+		System.out.println("end");
 
     }
 }
