@@ -7,10 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6886d2fd-cd04-457c-b8ee-ba71b861b141" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/a93aae86-077f-4d90-9914-a423cc06d136.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/a93aae86-077f-4d90-9914-a423cc06d136.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/com/pac/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/com/pac/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/com/pac/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/com/pac/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/com/pac/controller/TeacherController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/com/pac/controller/TeacherController.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -114,12 +112,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="321" />
+          <entry key="java" value="356" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="321" />
+          <entry key="JAVA" value="356" />
         </counts>
       </usages-collector>
     </session>
@@ -156,12 +154,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/cn/com/pac/controller/TeacherController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="384">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#185#186#0" expanded="true" />
-                <element signature="e#265#266#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -318,7 +314,7 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1596295709980" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1596359054917" />
     <property name="database.console.LAST_STATE" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -457,12 +453,12 @@
       <workItem from="1593446615623" duration="22000" />
       <workItem from="1596293425069" duration="1937000" />
       <workItem from="1596345385435" duration="86000" />
-      <workItem from="1596345496350" duration="608000" />
+      <workItem from="1596345496350" duration="1283000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21224000" />
+    <option name="totallyTimeSpent" value="21899000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -559,12 +555,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/com/pac/controller/TeacherController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="384">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#185#186#0" expanded="true" />
-            <element signature="e#265#266#0" expanded="true" />
           </folding>
         </state>
       </provider>
