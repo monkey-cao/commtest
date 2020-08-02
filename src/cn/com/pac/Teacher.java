@@ -1,21 +1,41 @@
 package cn.com.pac;
 
-import java.util.HashMap;
 
 
 public class Teacher {
+
     private int id;
 
+    private String name;
 
-    public static void main(String[] args){
+    public int getId() {
+        return id;
+    }
 
-        System.out.println("hello");
-        int num = 10;
-        System.out.println("num = " + num);
-        int num2 = 20;
-        HashMap<String, String> map = new HashMap<>();
+    public void setId(int id) {
+        this.id = id;
+    }
 
+    public String getName() {
+        return name;
+    }
 
+    public void setName(String name) {
+        this.name = name;
+    }
 
+    public Teacher(){}
+
+    public Teacher(int id, String name) {
+        this.id = id;
+        this.name = name;
+    }
+
+    @Override
+    public String toString() {
+        return "Teacher{" +
+                "id=" + id +
+                ", name='" + name + '\'' +
+                '}';
     }
 }
