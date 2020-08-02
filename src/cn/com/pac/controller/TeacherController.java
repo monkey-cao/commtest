@@ -13,4 +13,8 @@ public class TeacherController {
         return Arrays.asList(new Teacher(1, "张三"), new Teacher(2, "李四"));
     }
 
+    public Teacher searchTeacherById(int id){
+        return null;
+    }
+
 }
