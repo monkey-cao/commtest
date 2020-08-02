@@ -38,10 +38,6 @@ public class Demo {
             }
         });
 
-//        for (Student student:stus
-//             ) {
-//            stus.remove(student);
-//        }
         for (int i=0;i<stus.size();i++){
             stus.remove(i);
         }
